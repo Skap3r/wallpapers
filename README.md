@@ -4,11 +4,11 @@ A curated collection of high-quality wallpapers I’ve gathered over time.
 I wanted a simple way to sync my setup across devices — and this repository does exactly that.  
 You can clone it anywhere and instantly bring the same visual vibe to your desktop.
 
-![Preview](wallpapers/1347139.png)
-![Preview](wallpapers/1348362.png)
-![Preview](wallpapers/girl-sitting-while-the-city-burns.jpg)
-![Preview](wallpapers/miles-morales-in-red-jacket-dark-desktop-wallpaper.jpg)
-![Preview](wallpapers/nebula-blue.jpg)
+![Preview](./1347139.png)
+![Preview](./1348362.png)
+![Preview](./girl-sitting-while-the-city-burns.jpg)
+![Preview](./miles-morales-in-red-jacket-dark-desktop-wallpaper.jpg)
+![Preview](./nebula-blue.jpg)
 
 ---
 
